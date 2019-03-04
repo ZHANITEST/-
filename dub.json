@@ -1,0 +1,12 @@
+{
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"authors": [
+		"ZHANI"
+	],
+	"dependencies":{
+		"dgame": "~>0.6.6"
+	},
+	"copyright": "Copyright © 2019, ZHANI",
+	"name": "toto"
+}
